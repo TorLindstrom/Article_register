@@ -1,0 +1,19 @@
+mission:
+
+an app that let's the user add a title and a price and set the category, then save it to a database.
+
+should be able to see previous entries, category by category and all at once, sorted by either price, or name
+
+saved in database? or file?
+db is faster with many entries
+file is always available
+
+buttons:
+
+title text box
+category radio button
+price text box
+save button
+
+view buttons:
+

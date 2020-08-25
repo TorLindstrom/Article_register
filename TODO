@@ -1,0 +1,14 @@
+TODO:
+
+make next window, showing entries
+    visuals, then function
+    make it loop back to entry register
+
+make sure that you can connect from anywhere!!!
+    learn about servers and shit
+
+add offline method of saving to, and reading from, file
+    add auto update to process, taking data from server when available and fresher, and saving to backup file
+    or if file is fresher, save file data to the server
+
+fine tune graphics, add icons?
